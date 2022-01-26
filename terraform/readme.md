@@ -11,4 +11,5 @@
       - name: Setup terraform
         uses: hashicorp/setup-terraform@v1
 ```
-[Пример]()
+[Пример workflow с terraform](https://github.com/BanLex/example_webapp/blob/main/.github/workflows/Deploy%20infrastructure%20with%20Terraform)
+
