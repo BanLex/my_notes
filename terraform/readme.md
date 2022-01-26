@@ -11,3 +11,4 @@
       - name: Setup terraform
         uses: hashicorp/setup-terraform@v1
 ```
+[Пример]()
