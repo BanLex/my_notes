@@ -21,7 +21,7 @@
 
 [блок resource "yandex_compute_instance"]()
 
-[блок resource "yandex_vpc_network"]()
+[блок resource "yandex_vpc_network"](https://github.com/BanLex/my_notes/blob/main/terraform/network.md)
 
 [блок resource "yandex_vpc_subnet"](https://github.com/BanLex/my_notes/blob/main/terraform/subnet.md)
 
