@@ -19,19 +19,9 @@
 
 [ **Разворачивание инфраструктуры**](https://github.com/BanLex/my_notes/blob/main/terraform/deploy_terraform.md)
 
+[ **Удаление инфраструктуры** ](https://github.com/BanLex/my_notes/blob/main/terraform/delete_terraform.md)
 
 
-## Удаление инфраструктуры
-
-Для удаления инфрастуктуры служит команда ```terraform destroy```
-Но при использовании на github одной командой не обойтись. Потому что нет сохраненного текущего состояния.
-
-На github использую следующие команды:
-```
-terraform init -backend-config=backend.tfbackend
-terraform destroy  --auto-approve
-```
-[Пример](https://github.com/BanLex/example_webapp/blob/main/.github/workflows/Delete%20infrastructure%20with%20Terraform.yml)
 ## Файлы конфигурации
 Конфигурация храниться в файлах с расширением tf. Например: main.tf.
 Для Terraform не важно название файлов. Он считывает конфигурацию из всех файлов *.tf в текущем каталоге, поэтому различные конфигурации инфраструктуры следует хранить в отдельных каталогах. 
