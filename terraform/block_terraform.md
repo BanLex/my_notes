@@ -2,6 +2,7 @@
 [Назад](https://github.com/BanLex/my_notes/blob/main/terraform/content_config.md)
 
 > **Ссылки**
+> 
 > [Яндекс. Начало работы с Terraform](https://cloud.yandex.ru/docs/solutions/infrastructure-management/terraform-quickstart)
 > 
 > [Яндекс. Загрузка состояний Terraform в Object Storage](https://cloud.yandex.ru/docs/solutions/infrastructure-management/terraform-state-storage)
