@@ -12,7 +12,7 @@
 > [HashiCorp. Yandex.Cloud Provider](https://registry.terraform.io/providers/yandex-cloud/yandex/latest/docs)
 
 ## Содержание
-[ **Установка Terraform** ](https://github.com/BanLex/my_notes/blob/main/terraform/readme.md)
+[ **Установка Terraform** ](https://github.com/BanLex/my_notes/blob/main/terraform/setup_terraform.md)
 
 ## Установка
 [Инструкция по установке на машину](https://learn.hashicorp.com/tutorials/terraform/install-cli)
