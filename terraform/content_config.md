@@ -19,7 +19,7 @@
 
 [блок provider](https://github.com/BanLex/my_notes/blob/main/terraform/block_provider.md)
 
-[блок resource "yandex_compute_instance"]()
+[блок resource "yandex_compute_instance"](https://github.com/BanLex/my_notes/blob/main/terraform/compute_instance_gw.md)
 
 [блок resource "yandex_vpc_network"](https://github.com/BanLex/my_notes/blob/main/terraform/network.md)
 
