@@ -24,5 +24,3 @@
 [ **Конфигурация инфрастуктуры** ](https://github.com/BanLex/my_notes/blob/main/terraform/content_config.md)
 
 
-### блок resurce
-
