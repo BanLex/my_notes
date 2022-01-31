@@ -15,7 +15,7 @@
 
 [блок loсals](https://github.com/BanLex/my_notes/blob/main/terraform/locals.md)
 
-[блок terraform]()
+[блок terraform](https://github.com/BanLex/my_notes/blob/main/terraform/block_terraform.md)
 
 [блок provider]()
 
