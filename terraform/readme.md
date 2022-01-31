@@ -21,6 +21,7 @@
 
 [ **Удаление инфраструктуры** ](https://github.com/BanLex/my_notes/blob/main/terraform/delete_terraform.md)
 
+[ **Конфигурация инфрастуктуры** ](https://github.com/BanLex/my_notes/blob/main/terraform/content_config.md)
 
 ## Файлы конфигурации
 Конфигурация храниться в файлах с расширением tf. Например: main.tf.
