@@ -1,7 +1,7 @@
 # Установка terraform
 [Назад]()
 
-[Инструкция по установке на сервер(рабочую станцию)](https://learn.hashicorp.com/tutorials/terraform/install-cli)
+[HashiCorp. Инструкция по установке на сервер(рабочую станцию)](https://learn.hashicorp.com/tutorials/terraform/install-cli)
 
 Для использования в рабочем процессе github добавьте action:
 ```
