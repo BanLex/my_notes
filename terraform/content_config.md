@@ -13,7 +13,7 @@
 **locals** - переменные. Не обязательный, этих блоков может быть несколько.
 **resource** - описываются различные ресурсы. Например: сервера, сети, маршруты, хранилища.
 
-[блок loсals]()
+[блок loсals](https://github.com/BanLex/my_notes/blob/main/terraform/locals.md)
 
 [блок terraform]()
 
