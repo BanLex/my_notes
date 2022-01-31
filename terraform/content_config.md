@@ -25,6 +25,6 @@
 
 [блок resource "yandex_vpc_subnet"]()
 
-[блок resource "yandex_vpc_route_table"]()
+[блок resource "yandex_vpc_route_table"](https://github.com/BanLex/my_notes/blob/main/terraform/route_table.md)
 
 
