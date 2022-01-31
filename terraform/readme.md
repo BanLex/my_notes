@@ -4,8 +4,11 @@
 Заметки и полезные ссылки по настройке Terraform. На примере подключения к yandex cloud.
 
 > **Ссылки**
+> 
 > [Яндекс. Начало работы с Terraform](https://cloud.yandex.ru/docs/solutions/infrastructure-management/terraform-quickstart)
+> 
 > [Яндекс. Загрузка состояний Terraform в Object Storage](https://cloud.yandex.ru/docs/solutions/infrastructure-management/terraform-state-storage)
+> 
 > [HashiCorp. Yandex.Cloud Provider](https://registry.terraform.io/providers/yandex-cloud/yandex/latest/docs)
 
 ## Содержание
