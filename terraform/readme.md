@@ -17,22 +17,9 @@
 
 [ **Команды Terraform** ](https://github.com/BanLex/my_notes/blob/main/terraform/terraform_comands.md)
 
-## Разворачивание инфраструктуры
+[ **Разворачивание инфраструктуры**](https://github.com/BanLex/my_notes/blob/main/terraform/deploy_terraform.md)
 
-`terraform fmt` - это команда приводит ваши конфигурационные файлы к такому формату как это видит HashiCorp. Если запускаете на github, то команда бесполезна. Рабочие процессы github не сохраняют изменённые файлы в репозиторий.
-`terraform init` - обязятельная команда при выполнении изменений инфраструктуры. Имеет смысл её использовать в таком виде на локальном компьютере. На github удобнее использовать её с опцией подключающей backend. `terraform init -backend-config=backend.tfbackend` - иммено в таком виде я её использую.
-`terraform validate` - проверяет синтаксис.
-`terraform plan` - проверяет, что из описанного в конфигурации можно развернуть.
-`terraform apply` - разворачивает инфраструктуру. При этом он сперва спросит делать или нет, что бы он не спрашивал можно её запускать совместно с опцией `--auto-approve`.
 
-Я на github использую следующую последовательность команд:
-```
-terraform init -backend-config=backend.tfbackend
-terraform validate
-terraform plan
-terraform apply --auto-approve
-```
-[Пример](https://github.com/BanLex/example_webapp/blob/main/.github/workflows/Deploy%20infrastructure%20with%20Terraform.yml)
 
 ## Удаление инфраструктуры
 
