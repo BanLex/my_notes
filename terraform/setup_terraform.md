@@ -1,5 +1,5 @@
 # Установка terraform
-[Назад]()
+[Назад](https://github.com/BanLex/my_notes/blob/main/terraform/readme.md)
 
 [HashiCorp. Инструкция по установке на сервер(рабочую станцию)](https://learn.hashicorp.com/tutorials/terraform/install-cli)
 
