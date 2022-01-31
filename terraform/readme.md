@@ -12,7 +12,9 @@
 > [HashiCorp. Yandex.Cloud Provider](https://registry.terraform.io/providers/yandex-cloud/yandex/latest/docs)
 
 ## Содержание
+
 [ **Установка Terraform** ](https://github.com/BanLex/my_notes/blob/main/terraform/setup_terraform.md)
+
 [ **Команды Terraform** ](https://github.com/BanLex/my_notes/blob/main/terraform/terraform_comands.md)
 
 ## Разворачивание инфраструктуры
